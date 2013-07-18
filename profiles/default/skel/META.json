@@ -59,11 +59,11 @@
          "mailto" : "bug-{{ lc $dist->name }} at rt.cpan.org",
          "web" : "http://rt.cpan.org/Public/Dist/Display.html?Name={{ $dist->name }}"
       },
-      "homepage" : "https://github.com/wchristian/{{ lc $dist->name }}",
+      "homepage" : "https://github.com/wchristian/{{ $dist->name }}",
       "repository" : {
          "type" : "git",
-         "url" : "https://github.com/wchristian/{{ lc $dist->name }}.git",
-         "web" : "https://github.com/wchristian/{{ lc $dist->name }}"
+         "url" : "https://github.com/wchristian/{{ $dist->name }}.git",
+         "web" : "https://github.com/wchristian/{{ $dist->name }}"
       }
    },
    "version" : "0.000001"

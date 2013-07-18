@@ -21,9 +21,9 @@ You will be notified automatically of any progress on your issue.
 This is open source software.  The code repository is available for
 public review and contribution under the terms of the license.
 
-L<https://github.com/wchristian/{{ lc $dist->name }}>
+L<https://github.com/wchristian/{{ $dist->name }}>
 
-  git clone https://github.com/wchristian/{{ lc $dist->name }}.git
+  git clone https://github.com/wchristian/{{ $dist->name }}.git
 
 =head1 AUTHOR
 
