@@ -27,7 +27,7 @@ L<https://github.com/wchristian/{{ $dist->name }}>
 
 =head1 AUTHOR
 
-Christian Walde <walde.christian@googlemail.com>
+Christian Walde <walde.christian@gmail.com>
 
 =head1 COPYRIGHT AND LICENSE
 
