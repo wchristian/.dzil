@@ -1,6 +1,6 @@
-use strictures;
-
 package {{$name}};
+
+use strictures 2;
 
 # VERSION
 

@@ -1,6 +1,4 @@
-use strictures;
-
-package basic_test;
+use strictures 2;
 
 use Test::InDistDir;
 use Test::More;
